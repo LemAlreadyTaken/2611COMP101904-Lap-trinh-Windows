@@ -6,8 +6,7 @@
 ## Họ và tên
 Nguyễn Đan Trường
 
-## Lớp
-2611COMP101904
+## Lớp 2611COMP101904
 
 ## Nhóm
 6
