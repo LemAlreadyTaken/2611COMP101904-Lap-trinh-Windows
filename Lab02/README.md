@@ -35,15 +35,15 @@
 
 - **Cảnh báo khi chưa nhập mảng:**
 
-![Lỗi chưa nhập mảng](images/LoiChuaNhapMang.png)
+![Lỗi chưa nhập mảng](Images/LoiChuaNhapMang.png)
 
 - **Kiểm tra số lượng phần tử n âm hoặc bằng 0:**
 
-![Lỗi phần tử là số âm](images/LoiPhanTuLaSoAm.png)
+![Lỗi phần tử là số âm](Images/LoiPhanTuLaSoAm.png)
 
 - **Kiểm tra nhập sai lựa chọn chức năng:**
 
-![Lỗi chọn chức năng](images/LoiChonChucNang.png)
+![Lỗi chọn chức năng](Images/LoiChonChucNang.png)
 
 ---
 
@@ -51,23 +51,25 @@
 
 - **Nhập và xuất mảng:**
 
-![Nhập xuất mảng](images/NhapXuat.png)
+![Nhập mảng](Images/Nhap.png)
+
+![Xuất mảng](Images/Xuat.png)
 
 - **Tính tổng các phần tử (Tổng = 23):**
 
-![Tính tổng](images/TinhTong.png)
+![Tính tổng](Images/TinhTong.png)
 
 - **Tìm Max/Min (Max = 9, Min = 1):**
 
-![Max Min](images/MaxMin.png)
+![Max Min](Images/MaxMin.png)
 
 - **Đếm số lượng chẵn/lẻ (Chẵn = 2, Lẻ = 3):**
 
-![Đếm chẵn lẻ](images/DemChanLe.png)
+![Đếm chẵn lẻ](Images/DemChanLe.png)
 
 - **Sắp xếp mảng tăng dần (1 2 4 7 9):**
 
-![Sắp xếp tăng dần](images/SapXepTangDan.png)
+![Sắp xếp tăng dần](Images/SapXepTangDan.png)
 
 ---
 
@@ -75,12 +77,12 @@
 
 - **Tìm x = 9 (Có tìm thấy):**
 
-![Tìm kiếm](images/TimKiem.png)
+![Tìm kiếm](Images/TimKiem.png)
 
 - **Tìm x = 5 (Không tìm thấy):**
 
-![Không tìm thấy giá trị](images/KhongTimThayGiaTri.png)
+![Không tìm thấy giá trị](Images/KhongTimThayGiaTri.png)
 
 - **Thoát chương trình an toàn:**
 
-![Thoát](images/Thoat.png)
+![Thoát](Images/Thoat.png)
