@@ -22,22 +22,22 @@
 ## Hình ảnh minh họa chương trình
 
 ### 1) Hiển thị được thông tin cá nhân thành công
-![KQ](.\Images\HienThiThanhCong.png)
+![KQ](./Images/HienThiThanhCong.png)
 
 ### 2) Xác nhận đóng/thoát chương trình
-![EXIT](.\Images\XacNhanThoat.png)
+![EXIT](./Images/XacNhanThoat.png)
 
 ### 3) Lỗi nhập tên
-![NAME](.\Images\LoiNhapTen.png)
+![NAME](./Images/LoiNhapTen.png)
 
 ### 4) Lỗi nhập năm sinh
-![DATE](.\Images\LoiNhapNamSinh.png)
+![DATE](./Images/LoiNhapNamSinh.png)
 
 ### 5) Lỗi nhập email
-![EMAIL](.\Images\LoiNhapEmail.png)
+![EMAIL](./Images/LoiNhapEmail.png)
 
 ### 6) Lỗi nhập giới tính
-![SEX](.\Images\LoiNhapGioiTinh.png)
+![SEX](./Images/LoiNhapGioiTinh.png)
 
 ### 7) Lỗi nhập khoa/lớp
-![CLASS](.\Images\LoiNhapKhoa.png)
+![CLASS](./Images/LoiNhapKhoa.png)
