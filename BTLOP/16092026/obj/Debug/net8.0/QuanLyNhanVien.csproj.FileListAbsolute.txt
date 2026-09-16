@@ -1,0 +1,16 @@
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.exe
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.deps.json
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.runtimeconfig.json
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.dll
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.pdb
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.AssemblyInfo.cs
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.sourcelink.json
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.dll
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\refint\QuanLyNhanVien.dll
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.pdb
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.genruntimeconfig.cache
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\ref\QuanLyNhanVien.dll
+C:\Users\GIGABYTE\Desktop\Doc\Github\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net8.0\QuanLyNh.973645E6.Up2Date
