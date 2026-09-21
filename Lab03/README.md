@@ -51,31 +51,30 @@ Thang xếp loại: >= 9.0 Xuất sắc, >= 8.0 Giỏi, >= 6.5 Khá, >= 5.0 Trun
 ## Hình ảnh minh họa chương trình
 
 ### 1. Menu chính
-![Menu](images/Menu.png)
+![Menu](Images/Menu.png)
 
 ### 2. Thêm sinh viên và báo trùng mã
-![ThemSinhVien](images/ThemSinhVien.png)
-![ThemSinhVien](images/ThemSinhVienTrung.png)
+![ThemSinhVien](Images/ThemSinhVien.png)
+![ThemSinhVien](Images/ThemSinhVienTrung.png)
 
 
 ### 3. Nhập điểm không hợp lệ (-1, 11)
 ![NhapDiemSai](images/NhapDiemSai.png)
 
 ### 4. Xuất danh sách
-![XuatDanhSach](images/XuatDanhSach.png)
+![XuatDanhSach](Images/XuatDanhSach.png)
 
 ### 5. Tìm theo mã và tìm theo tên
-![TimKiem](images/TimKiemMa.png)
-![TimKiem](images/TimKiemTen.png)
+![TimKiem](Images/TimKiemMa.png)
+![TimKiem](Images/TimKiemTen.png)
 
 
 ### 6. Sửa điểm và xóa sinh viên
-![SuaXoa](images/Sua.png)
-![SuaXoa](images/Xoa.png)
-
-
+![SuaXoa](Images/Sua.png)
+![SuaXoa](Images/Xoa.png)
+I
 ### 7. Sắp xếp theo điểm giảm dần
-![SapXep](images/SapXep.png)
+![SapXep](Images/SapXep.png)
 
 ### 8. Lọc sinh viên đạt
-![LocDat](images/LocDat.png)
+![LocDat](Images/LocDat.png)
