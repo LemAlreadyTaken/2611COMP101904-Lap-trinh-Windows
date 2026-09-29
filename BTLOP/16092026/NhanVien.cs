@@ -13,10 +13,7 @@ namespace QuanLyNhanVien
         private double luongCoBan;
         public double LuongCoBan
         {
-            get 
-            {
-                luongCoBan
-            };
+            get => luongCoBan;
             set
             {
                 if (value <= 0)
